@@ -2,7 +2,7 @@
 
 Jogo da memoria de cartas, com a participação dos integrantes do BBB21.   
 
-Criado com base em aula assistida na DIO, fiz alguns ajustes e melhoras ao final do jogo...
+Criado com base em aula assistida na DIO, fiz alguns ajustes e melhoras ao final do jogo, bora conferir?
   
 --> Foram acrescentados mais cartas ao jogo.  
 --> Um alerta de vencedor aparece no final do game.  
